@@ -2,11 +2,11 @@
 
 # Purpose
 
-To avail a sample(s) of work from profolio to potential employers, collaborators, web developers and software engineers. 
+To avail sample(s) of work from my profolio to potential employers as well as collaborators, web developers and software engineers for public usage. 
 
 # Critera
 
-GIVEN as a potential employer I need to sample a candidate's previous work
+As a potential employer I need to sample the candidate's previous work
 
 * WHEN I load their portfolio
 * THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their     work, and how to contact them
@@ -39,11 +39,20 @@ https://user-images.githubusercontent.com/100335717/184080367-357ed12f-d38d-4bb4
 
 # Installation
 
-git clone {link of the project}
+<img width="921" alt="Untitled" src="https://user-images.githubusercontent.com/100335717/184080849-bd3b6302-6bb4-4e2d-92ed-1bf2635e397a.png">
+
 
 # Built with
 
 -CSS file
+
 -HTML file
+
 -@Media Queries
+
+
+
+
+
+
 
