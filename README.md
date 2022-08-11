@@ -27,14 +27,15 @@ GIVEN as a potential employer I need to sample a candidate's previous work
 * THEN I am presented with a responsive layout that adapts to my viewport
 
 ##Screenshot
-![](../../SS.png)
+<img width="1501" alt="SS" src="https://user-images.githubusercontent.com/100335717/184080350-55a9a108-d80c-410d-bee1-8597f72692fa.png">
 
 # Usage
 
 Using website-portfolio as a work sample, you click the links in the navigation to scroll to corresponding sections throughout the page.
 
 # Demo 
-[](../../WPMU.mov)
+https://user-images.githubusercontent.com/100335717/184080367-357ed12f-d38d-4bb4-a828-234644b69e4d.mov
+
 
 # Installation
 
