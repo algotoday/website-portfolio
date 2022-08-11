@@ -2,7 +2,7 @@
 
 # Purpose
 
-To avail sample(s) of work from my profolio to potential employers as well as collaborators, web developers and software engineers for public usage. 
+To avail a sample(s) of work from my profolio to potential employers as well as collaborators, web developers and software engineers for public usage. 
 
 # Critera
 
@@ -31,7 +31,7 @@ As a potential employer I need to sample the candidate's previous work
 
 # Usage
 
-Using website-portfolio as a work sample, you click the links in the navigation to scroll to corresponding sections throughout the page.
+Using website-portfolio as a work sample, you can click the links in the navigation to scroll to corresponding sections throughout the page.
 
 # Demo 
 https://user-images.githubusercontent.com/100335717/184080367-357ed12f-d38d-4bb4-a828-234644b69e4d.mov
