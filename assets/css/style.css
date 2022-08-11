@@ -52,6 +52,7 @@
     color: var(--primary-color);
   }
   section {
+    margin-top: 5%;
     padding: 60px;
   }
   .flex-row {
@@ -83,6 +84,9 @@
     flex-wrap: wrap;
     justify-content: space-between;
     color: var(--tertiary-color);
+  }
+  .intro {
+    padding-top: 5%;
   }
   @media screen and (max-width: 980px) {
     header {
